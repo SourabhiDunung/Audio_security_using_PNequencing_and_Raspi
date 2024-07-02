@@ -1,4 +1,4 @@
-# Audio_security_using_PNequencing_and_Raspi
+# Audio_security_using_PNsequencing_and_Raspi
 # Abstract:
 In response to the contemporary imperative for secure handling of audio data, this project focuses on enhancing audio data communication security. By leveraging P-N sequences and MATLAB in conjunction with Raspberry Pi, the aim is to reinforce security measures, addressing the pressing need for robust protection of sensitive information in today's digital landscape.
 
